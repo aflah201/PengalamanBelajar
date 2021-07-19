@@ -34,3 +34,13 @@ Awal mula saya bergabung dengan Dicoding. Belajar dasar pemrograman yang spesifi
 
  - Menyelesaikan Kelas Belajar Dasar Visualisasi Data.
  - Pelajari teknik dasar untuk representasi hasil secara visual sehingga dapat menceritakan dan mempresentasikan data secara efektif.
+
+**05 Oktober 2020**
+
+ - Menyelesaikan Kelas Belajar Memulai Pemrograman Dengan Python.
+ - Belajar Python yang menjadi landasan penting berbagai tren industri seperti ilmu data, pemelajaran mesin, dan manajemen infrastruktur.
+
+**07 Oktober 2020**
+
+ - Menyelesaikan Kelas Belajar Machine Learning untuk Pemula.
+ - Pelajari materi dasar pengembangan machine learning dan langkah menciptakan model machine learning pertamamu untuk memproses data.
